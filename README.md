@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j3sagu Jesus Santillan 
+- 👋 Hi, I’m @j3sagu, Jesus Santillan 
 Program Manager | Associate professor | Human rights
 - 👀 I’m interested in techonology & human rights
 - 🌱 I’m currently learning at Oracle ONE
